@@ -128,14 +128,15 @@ header {
 
 .boutons{
   margin-left: 200px;
-    margin-top: 40px;
+  margin-top: 40px;
 }
 
-    .bouton3 {
-      margin-left:85px;
-      display:inline-block;
-      text-decoration: none;
+.bouton3 {
+  margin-left:20px;
+  display:inline-block;
+  text-decoration: none;
     }
+
     .bouton3 input:hover {
       background-color: #ffcc00 !important;
     }
