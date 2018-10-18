@@ -1,0 +1,152 @@
+h1{
+  font-size: 4em;
+  text-align: center;
+  padding-bottom: 80px;
+  font-family: 'Capriola', sans-serif;
+}
+
+
+
+
+body{
+  text-align: justify;
+  background-color:#ebfafa;
+}
+
+h2{
+  font-family: 'Capriola', sans-serif;
+  text-align: center;
+  font-size: 3em;
+  padding-bottom:1em;}
+
+
+p {  font-family: 'ABeeZee', sans-serif;
+  font-size: 20px;
+  line-height: 32px;
+  margin-bottom: 8px;
+  }
+
+header {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #ebfafa;
+  font-family: 'Baloo';
+  }
+
+.headerleft {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  }
+
+.headerright{
+  display: flex;
+  margin-right: 20px;
+  }
+
+.logotype {
+  height: 100px;
+  width: 100px;
+  }
+
+.headerpadding {
+  padding: 0px 30px 0px 40px;
+}
+
+.barre {
+  margin-top: 50px;
+}
+
+.menu a {
+  font-size: 15px;
+  text-decoration: none;
+  color: black;
+}
+
+.enonce {
+  flex: 1;
+  font-size: 15px;
+  margin: 0px 50px 0px 50px;
+}
+
+.enonce p {
+    margin:25px 20px 30px 50px;
+  }
+
+  .imagecontainer2 {
+    display: flex;
+    flex: 1;
+    align-items: flex-end;
+    justify-content: center;
+    margin: 0px 80px 0px 70px;
+  }
+  .enonceimagecontainer {
+    display: flex;
+    margin: 40px;
+    width: 100%;
+    flex-direction: row;
+  }
+  .imageabeille {
+    margin-bottom: 50px;
+    margin-right: 50px;
+    display: flex;
+    width: 65%;
+    height: auto;
+  }
+
+.enoncevideocontainer{
+  display: flex;
+  margin-right: 100px;
+}
+
+.imagefooter{
+  display: flex;
+}
+
+  .bouton2 {
+    display: flex;
+    margin-top: 40px;
+    margin-left: 300px;
+    text-decoration: none;
+  }
+  .bouton2 input:hover {
+    background-color: #ffcc00 !important;
+  }
+  .bouton2 input {
+    color: black;
+    font-size: 20px;
+    background-color: white;
+    width: 150px;
+    height: 60px;
+    border-radius: 20px;
+    border-color: white;
+    border-width: 2px;
+    text-decoration: none;
+  }
+
+.boutons{
+  margin-left: 200px;
+    margin-top: 40px;
+}
+
+    .bouton3 {
+      margin-left:85px;
+      display:inline-block;
+      text-decoration: none;
+    }
+    .bouton3 input:hover {
+      background-color: #ffcc00 !important;
+    }
+    .bouton3 input {
+      color: black;
+      font-size: 20px;
+      background-color: white;
+      width: 150px;
+      height: 60px;
+      border-radius: 20px;
+      border-color: white;
+      border-width: 2px;
+      text-decoration: none;
+    }
